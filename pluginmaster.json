@@ -26,6 +26,29 @@
     "RepoUrl": "https://github.com/TonyCutHair/GatherBuddyRebornCN",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
     "DownloadLinkInstall": "https://github.com/TonyCutHair/GatherBuddyRebornCN/releases/download/7.4.0.3/GatherBuddyReborn.zip",
-    "DownloadLinkUpdate": "https://github.com/TonyCutHair/GatherBuddyRebornCN/releases/download/7.4.0.3/GatherBuddyReborn.zip",
+    "DownloadLinkUpdate": "https://github.com/TonyCutHair/GatherBuddyRebornCN/releases/download/7.4.0.3/GatherBuddyReborn.zip"
+  },
+  {
+    "Name": "AetheryteLinkInChatCN",
+    "InternalName": "AetheryteLinkInChat",
+    "AssemblyVersion": "1.0.0.1",
+    "Author": "Asteria Nocturna",
+    "Punchline": "我传送的比你快多了!",
+    "Description": "在游戏聊天中为地图链接显示最近的以太之光传送链接，便于狩猎和寻宝！",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Tags": [
+      "teleporter",
+      "utility"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "RepoUrl": "https://github.com/TonyCutHair/AetheryteLinkInChat",
+    "DownloadLinkInstall": "https://github.com/TonyCutHair/AetheryteLinkInChat/releases/download/v1.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TonyCutHair/AetheryteLinkInChat/releases/download/v1.0.0.1/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IconUrl": ""
   }
 ]
