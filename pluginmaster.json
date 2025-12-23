@@ -1,5 +1,30 @@
 [
   {
+    "Name": "Boss Mod CN",
+    "InternalName": "BossMod",
+    "AssemblyVersion": "0.4.11.4",
+    "Author": "veyn",
+    "Punchline": "下本工具,但是汉化版",
+    "Description": "Boss Mode汉化施工中,此为半成品且检测库存物品时可能有Bug.",
+    "ApplicableVersion": "any",
+    "LoadPriority": 0,
+    "Tags": [
+      "BOSSMode"
+    ],
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
+    ],
+    "DalamudApiLevel": 14,
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/TonyCutHair/ffxiv_bossmodCN",
+    "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
+    "DownloadLinkInstall": "https://github.com/TonyCutHair/ffxiv_bossmodCN/releases/download/v0.4.11.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TonyCutHair/ffxiv_bossmodCN/releases/download/v0.4.11.4/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TonyCutHair/ffxiv_bossmodCN/releases/download/v0.4.11.4/latest.zip"
+  },
+    {
     "Name": "Divination.AetheryteLinkInChat",
     "InternalName": "AetheryteLinkInChat",
     "AssemblyVersion": "7.4.0.1",
