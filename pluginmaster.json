@@ -4,8 +4,8 @@
     "InternalName": "AetheryteLinkInChat",
     "AssemblyVersion": "7.4.0.1",
     "Author": "Asteria Nocturna",
-    "Punchline": "一键!传送!",
-    "Description": "在每个发送到聊天的坐标信息后面添加一个最近的以太之光。输入 /alic 配置该插件",
+    "Punchline": "点击即可传送",
+    "Description": "在聊天框的坐标信息后面添加一个最近的以太之光。输入 /alic 配置该插件",
     "ApplicableVersion": "any",
     "LoadPriority": 0,
     "Tags": [
@@ -13,11 +13,11 @@
     ],
     "DalamudApiLevel": 14,
     "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/TonyCutHair/DalamudPlugins",
+    "RepoUrl": "https://github.com/TonyCutHair/DivinationCN",
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/TonyCutHair/DalamudPlugins/blob/main/AetheryteLinkInChat.zip",
-    "DownloadLinkUpdate": "https://github.com/TonyCutHair/DalamudPlugins/blob/main/AetheryteLinkInChat.zip",
-    "DownloadLinkTesting": "https://github.com/TonyCutHair/DalamudPlugins/blob/main/AetheryteLinkInChat.zip"
+    "DownloadLinkInstall": "https://github.com/TonyCutHair/DivinationCN/releases/download/v7.4.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/TonyCutHair/DivinationCN/releases/download/v7.4.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/TonyCutHair/DivinationCN/releases/download/v7.4.0.1/latest.zip"
   },
   {
     "Author": "The Combat Reborn Team",
